@@ -1,0 +1,449 @@
+Hmm ... looks like a package
+
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011)
+ restricted \write18 enabled.
+entering extended mode
+(./Rd2.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2011-07-01, ngerman-x-2011-07-01, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/bk10.clo
+)) (/usr/share/R/texmf/tex/latex/Rd.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ifthen.s
+ty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/tools/longtab
+le.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/tools/bm.sty)
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/alltt.st
+y)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/tools/verbati
+m.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf/tex/latex/html/url.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/textcomp
+.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ts1enc.d
+ef))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/fontenc.
+sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/t1enc.de
+f))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/psnfss/times.
+sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/graphics/colo
+r.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/latexconfig/c
+olor.cfg)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/pdftex-def/pd
+ftex.def
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/in
+fwarerr.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/lt
+xcmds.sty)))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/hyperref/hype
+rref.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/ho
+bsub-hyperref.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/ho
+bsub-generic.sty))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/graphics/keyv
+al.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/ifxetex/ifx
+etex.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/oberdiek/kvop
+tions.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/hyperref/pd1e
+nc.def)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/latexconfig/h
+yperref.cfg))
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/hyperref/hpdf
+tex.def
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/oberdiek/reru
+nfilecheck.sty))
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 361.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 361.
+
+)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/makeidx.
+sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/inputenc
+.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/utf8.def
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/t1enc.df
+u)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ot1enc.d
+fu)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/omsenc.d
+fu)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ts1enc.d
+fu))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/latin1.d
+ef))
+Writing index file Rd2.idx
+No file Rd2.aux.
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ts1cmr.f
+d)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/psnfss/t1ptm.
+fd)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/context/base/supp-p
+df.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/hyperref/name
+ref.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/ge
+ttitlestring.sty))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/psnfss/t1pcr.
+fd)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/psnfss/t1phv.
+fd)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/utf8.def
+)
+Overfull \hbox (12.78088pt too wide) in paragraph at lines 37--37
+ []  \T1/pcr/m/n/10 density = NULL, angle = 45, col = NULL, border = NULL, lty 
+= NULL,[] 
+[1{/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-var/fonts/map/pdftex/updma
+p/pdftex.map}]
+No file Rd2.ind.
+[2] (./Rd2.aux)
+
+Package rerunfilecheck Warning: File `Rd2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information){/afs/cs.wisc.edu/s/texlive
+-2011/amd64_rhel5/texmf-dist/fonts/enc/dvips/base/8r.enc}</afs/cs.wisc.edu/s/te
+xlive-2011/amd64_rhel5/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></afs/cs.w
+isc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.p
+fb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type1/urw/time
+s/utmb8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type
+1/urw/times/utmr8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/
+fonts/type1/urw/times/utmr8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/t
+exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Rd2.pdf (2 pages, 64119 bytes).
+Transcript written on Rd2.log.
+This is makeindex, version 2.15 [TeX Live 2011] (kpathsea + Thai support).
+Scanning input file Rd2.idx....done (1 entries accepted, 0 rejected).
+Sorting entries...done (0 comparisons).
+Generating output file Rd2.ind....done (5 lines written, 0 warnings).
+Output written in Rd2.ind.
+Transcript written in Rd2.ilg.
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011)
+ restricted \write18 enabled.
+entering extended mode
+(./Rd2.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2011-07-01, ngerman-x-2011-07-01, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/bk10.clo
+)) (/usr/share/R/texmf/tex/latex/Rd.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ifthen.s
+ty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/tools/longtab
+le.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/tools/bm.sty)
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/alltt.st
+y)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/tools/verbati
+m.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf/tex/latex/html/url.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/textcomp
+.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ts1enc.d
+ef))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/fontenc.
+sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/t1enc.de
+f))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/psnfss/times.
+sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/graphics/colo
+r.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/latexconfig/c
+olor.cfg)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/pdftex-def/pd
+ftex.def
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/in
+fwarerr.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/lt
+xcmds.sty)))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/hyperref/hype
+rref.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/ho
+bsub-hyperref.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/ho
+bsub-generic.sty))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/graphics/keyv
+al.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/ifxetex/ifx
+etex.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/oberdiek/kvop
+tions.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/hyperref/pd1e
+nc.def)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/latexconfig/h
+yperref.cfg))
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/hyperref/hpdf
+tex.def
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/oberdiek/reru
+nfilecheck.sty))
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 361.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 361.
+
+)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/makeidx.
+sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/inputenc
+.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/utf8.def
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/t1enc.df
+u)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ot1enc.d
+fu)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/omsenc.d
+fu)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ts1enc.d
+fu))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/latin1.d
+ef))
+Writing index file Rd2.idx
+(./Rd2.aux)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ts1cmr.f
+d)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/psnfss/t1ptm.
+fd)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/context/base/supp-p
+df.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/hyperref/name
+ref.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/ge
+ttitlestring.sty)) (./Rd2.out) (./Rd2.out)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/psnfss/t1pcr.
+fd)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/psnfss/t1phv.
+fd) (./Rd2.toc)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/utf8.def
+)
+Overfull \hbox (12.78088pt too wide) in paragraph at lines 37--37
+ []  \T1/pcr/m/n/10 density = NULL, angle = 45, col = NULL, border = NULL, lty 
+= NULL,[] 
+[1{/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-var/fonts/map/pdftex/updma
+p/pdftex.map}] (./Rd2.ind [2] [3]) (./Rd2.aux)
+
+Package rerunfilecheck Warning: File `Rd2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information){/afs/cs.wisc.edu/s/texlive
+-2011/amd64_rhel5/texmf-dist/fonts/enc/dvips/base/8r.enc}</afs/cs.wisc.edu/s/te
+xlive-2011/amd64_rhel5/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></afs/cs.w
+isc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.p
+fb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type1/urw/time
+s/utmb8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type
+1/urw/times/utmr8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/
+fonts/type1/urw/times/utmr8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/t
+exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Rd2.pdf (3 pages, 64893 bytes).
+Transcript written on Rd2.log.
+This is makeindex, version 2.15 [TeX Live 2011] (kpathsea + Thai support).
+Scanning input file Rd2.idx....done (1 entries accepted, 0 rejected).
+Sorting entries...done (0 comparisons).
+Generating output file Rd2.ind....done (5 lines written, 0 warnings).
+Output written in Rd2.ind.
+Transcript written in Rd2.ilg.
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011)
+ restricted \write18 enabled.
+entering extended mode
+(./Rd2.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2011-07-01, ngerman-x-2011-07-01, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/bk10.clo
+)) (/usr/share/R/texmf/tex/latex/Rd.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ifthen.s
+ty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/tools/longtab
+le.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/tools/bm.sty)
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/alltt.st
+y)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/tools/verbati
+m.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf/tex/latex/html/url.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/textcomp
+.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ts1enc.d
+ef))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/fontenc.
+sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/t1enc.de
+f))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/psnfss/times.
+sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/graphics/colo
+r.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/latexconfig/c
+olor.cfg)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/pdftex-def/pd
+ftex.def
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/in
+fwarerr.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/lt
+xcmds.sty)))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/hyperref/hype
+rref.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/ho
+bsub-hyperref.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/ho
+bsub-generic.sty))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/graphics/keyv
+al.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/ifxetex/ifx
+etex.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/oberdiek/kvop
+tions.sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/hyperref/pd1e
+nc.def)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/latexconfig/h
+yperref.cfg))
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/hyperref/hpdf
+tex.def
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/oberdiek/reru
+nfilecheck.sty))
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 361.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 361.
+
+)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/makeidx.
+sty)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/inputenc
+.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/utf8.def
+
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/t1enc.df
+u)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ot1enc.d
+fu)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/omsenc.d
+fu)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ts1enc.d
+fu))
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/latin1.d
+ef))
+Writing index file Rd2.idx
+(./Rd2.aux)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/ts1cmr.f
+d)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/psnfss/t1ptm.
+fd)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/context/base/supp-p
+df.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/hyperref/name
+ref.sty
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/generic/oberdiek/ge
+ttitlestring.sty)) (./Rd2.out) (./Rd2.out)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/psnfss/t1pcr.
+fd)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/psnfss/t1phv.
+fd) (./Rd2.toc)
+(/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/utf8.def
+)
+Overfull \hbox (12.78088pt too wide) in paragraph at lines 37--37
+ []  \T1/pcr/m/n/10 density = NULL, angle = 45, col = NULL, border = NULL, lty 
+= NULL,[] 
+[1{/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-var/fonts/map/pdftex/updma
+p/pdftex.map}] (./Rd2.ind [2] [3]) (./Rd2.aux) )
+(see the transcript file for additional information){/afs/cs.wisc.edu/s/texlive
+-2011/amd64_rhel5/texmf-dist/fonts/enc/dvips/base/8r.enc}</afs/cs.wisc.edu/s/te
+xlive-2011/amd64_rhel5/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></afs/cs.w
+isc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.p
+fb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type1/urw/time
+s/utmb8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type
+1/urw/times/utmr8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/
+fonts/type1/urw/times/utmr8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/t
+exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Rd2.pdf (3 pages, 65542 bytes).
+Transcript written on Rd2.log.
+Saving output to 'piechart-manual.pdf' ...
+Done
+You may want to clean up by 'rm -rf /tmp/RtmptIkAgz/Rd2pdf641c178c4988'
