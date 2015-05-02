@@ -1,8 +1,0 @@
-Package: piechart
-Version: 0.1
-License: GPL (>= 2)
-Description: Plot a 2-D pie chart
-Author: Sijing Li <sijingli@stat.wisc.edu>
-Maintainer: Sijing Li <sijingli@stat.wisc.edu>
-VignetteBuilder: knitr
-Suggests: knitr, rmarkdown, devtools, roxygen2

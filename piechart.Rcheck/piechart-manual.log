@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.9.8)  10 APR 2015 14:30
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.9.8)  1 MAY 2015 22:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -728,8 +728,8 @@ fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 25.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 25.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 24.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 24.
 
 (/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/psnfss/t1phv.
 fd
@@ -747,7 +747,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 )
-Overfull \hbox (12.78088pt too wide) in paragraph at lines 37--37
+Overfull \hbox (12.78088pt too wide) in paragraph at lines 36--36
  []  \T1/pcr/m/n/10 density = NULL, angle = 45, col = NULL, border = NULL, lty 
 = NULL,[] 
  []
@@ -760,11 +760,11 @@ pdftex.map}] (./Rd2.ind [2] [3
 
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
  (./Rd2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
 Package rerunfilecheck Info: File `Rd2.out' has not changed.
 (rerunfilecheck)             Checksum: 8873770966518C33A68E139E13CF11C6;86.
  ) 
@@ -784,7 +784,7 @@ xmf-dist/fonts/type1/urw/times/utmb8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd6
 4_rhel5/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></afs/cs.wisc.edu/s/texlive
 -2011/amd64_rhel5/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></afs/cs.wisc.edu
 /s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Rd2.pdf (3 pages, 65542 bytes).
+Output written on Rd2.pdf (3 pages, 65368 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream

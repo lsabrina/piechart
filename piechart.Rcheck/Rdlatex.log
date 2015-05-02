@@ -124,7 +124,7 @@ fd)
 fd)
 (/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/utf8.def
 )
-Overfull \hbox (12.78088pt too wide) in paragraph at lines 37--37
+Overfull \hbox (12.78088pt too wide) in paragraph at lines 36--36
  []  \T1/pcr/m/n/10 density = NULL, angle = 45, col = NULL, border = NULL, lty 
 = NULL,[] 
 [1{/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-var/fonts/map/pdftex/updma
@@ -146,7 +146,7 @@ s/utmb8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type
 1/urw/times/utmr8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/
 fonts/type1/urw/times/utmr8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/t
 exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Rd2.pdf (2 pages, 64119 bytes).
+Output written on Rd2.pdf (2 pages, 63954 bytes).
 Transcript written on Rd2.log.
 This is makeindex, version 2.15 [TeX Live 2011] (kpathsea + Thai support).
 Scanning input file Rd2.idx....done (1 entries accepted, 0 rejected).
@@ -277,7 +277,7 @@ fd)
 fd) (./Rd2.toc)
 (/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/utf8.def
 )
-Overfull \hbox (12.78088pt too wide) in paragraph at lines 37--37
+Overfull \hbox (12.78088pt too wide) in paragraph at lines 36--36
  []  \T1/pcr/m/n/10 density = NULL, angle = 45, col = NULL, border = NULL, lty 
 = NULL,[] 
 [1{/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-var/fonts/map/pdftex/updma
@@ -297,7 +297,7 @@ s/utmb8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type
 1/urw/times/utmr8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/
 fonts/type1/urw/times/utmr8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/t
 exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Rd2.pdf (3 pages, 64893 bytes).
+Output written on Rd2.pdf (3 pages, 64807 bytes).
 Transcript written on Rd2.log.
 This is makeindex, version 2.15 [TeX Live 2011] (kpathsea + Thai support).
 Scanning input file Rd2.idx....done (1 entries accepted, 0 rejected).
@@ -428,7 +428,7 @@ fd)
 fd) (./Rd2.toc)
 (/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/tex/latex/base/utf8.def
 )
-Overfull \hbox (12.78088pt too wide) in paragraph at lines 37--37
+Overfull \hbox (12.78088pt too wide) in paragraph at lines 36--36
  []  \T1/pcr/m/n/10 density = NULL, angle = 45, col = NULL, border = NULL, lty 
 = NULL,[] 
 [1{/afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-var/fonts/map/pdftex/updma
@@ -442,8 +442,8 @@ s/utmb8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/fonts/type
 1/urw/times/utmr8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/texmf-dist/
 fonts/type1/urw/times/utmr8a.pfb></afs/cs.wisc.edu/s/texlive-2011/amd64_rhel5/t
 exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Rd2.pdf (3 pages, 65542 bytes).
+Output written on Rd2.pdf (3 pages, 65368 bytes).
 Transcript written on Rd2.log.
 Saving output to 'piechart-manual.pdf' ...
 Done
-You may want to clean up by 'rm -rf /tmp/RtmptIkAgz/Rd2pdf641c178c4988'
+You may want to clean up by 'rm -rf /tmp/RtmpS6Dzj7/Rd2pdf22ee53acb064'
