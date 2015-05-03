@@ -1,0 +1,22 @@
+<!--
+%\VignetteEngine{knitr::knitr}
+%\VignetteIndexEntry{piechart}
+-->
+---
+title: piechart
+author: "Sijing Li"
+date: "1 May 2015"
+output: html_document
+---
+
+First we load the "piechart" package.
+```{r loadlibrary}
+library(piechart)
+```
+
+Then we plot 2 dimension piechart and color them.
+```{r simulate2d}
+piechart(rep(1, 24), col = rainbow(24), radius = 0.9)
+```
+
+      
