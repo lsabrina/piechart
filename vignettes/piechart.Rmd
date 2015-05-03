@@ -5,16 +5,16 @@
 ---
 title: piechart
 author: "Sijing Li"
-date: "1 May 2015"
+date: "2 May 2015"
 output: html_document
 ---
 
-First we load the "piechart" package.
+Firstly we load the "piechart" R package.
 ```{r loadlibrary}
 library(piechart)
 ```
 
-Then I plot a two-dimensional piechart for specific data and color them.
+Then we can plot a two-dimensional piechart for some specific data and color them.
 ```{r simulate2d}
 piechart(rep(1, 24), col = rainbow(24), radius = 0.9)
 
