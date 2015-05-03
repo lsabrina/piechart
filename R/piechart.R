@@ -1,4 +1,4 @@
-#' Draw a 2-dimensional pie chart
+#' Draw a two-dimensional pie chart
 #'
 #' @param x  A vector of non-negative numerical quantities. The values in x are displayed as the areas of pie slices.
 #' @param labels One or more expressions or character strings giving names for the slices. 
