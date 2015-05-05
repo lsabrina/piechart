@@ -1,3 +1,3 @@
 library(testthat)
 library(piechart)
-test_package("piechart")
+test_check("piechart")
